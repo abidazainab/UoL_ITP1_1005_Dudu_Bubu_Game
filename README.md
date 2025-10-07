@@ -34,3 +34,4 @@ CODES:
 ![Instruction page](./e.png)
 ![Main game](./a.png)
 
+NOTE: This was my fisrt year's final project in Introduction to programming I at University of London and got 95 for it.

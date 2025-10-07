@@ -1,4 +1,5 @@
 Game story: 
+
 In a realm not so distant, a charming duo, Dudu and Bubu, shared their lives. 
 One fateful evening, as Dudu/Bubu returned home with a trove of chocolates, 
 they discovered an unsettling silence. Their cherished partner (Dudu/Bubu) was 

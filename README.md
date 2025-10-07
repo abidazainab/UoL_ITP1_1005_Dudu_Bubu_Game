@@ -1,4 +1,4 @@
-Game story: 
+GAME STORY: 
 
 In a realm not so distant, a charming duo, Dudu and Bubu, shared their lives. 
 One fateful evening, as Dudu/Bubu returned home with a trove of chocolates, 
@@ -11,7 +11,7 @@ their beloved was trapped in a sinister mansion.
 
 FIND HIM/HER AND HELP THEM TO BE REUNITED.
 
-Game features:
+GAME FEATURES:
 * Choosing different characters
 * Have three game levels
 * Levels unlocking system
@@ -25,7 +25,7 @@ CODES:
 * Codes are in JavaScript
 * Library used: p5.js and p5.sound.js
 
-🖼️ Preview
+🖼️ PREVIEW:
 
 
 ![Main page](./b.png)
